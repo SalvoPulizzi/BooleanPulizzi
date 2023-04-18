@@ -1,0 +1,127 @@
+body {
+    
+    background-image: url("image/background.jpg");
+    height: 700px;
+    width: 1250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+        
+}
+
+
+.opacita50 {
+    opacity: 50%;
+    
+}
+.containerback {
+  
+  width: 780px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background-color: #000;
+  
+  
+    
+}
+
+.container {
+  position: relative;
+  top: -500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: auto;
+
+  
+}
+
+.logo {
+  
+  height: 50px;
+  z-index: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 50px; 
+}
+
+
+.prenota {
+ 
+  width: 600px;
+  background-color: chartreuse;
+  margin-left: 320px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+    
+}
+
+.fontserif {
+font-family: sans-serif;    
+    
+}
+
+.titolo {
+  top: 150px;
+  color: chartreuse;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+    
+}
+
+
+.veicolo {
+    
+ margin-left: 320px;
+ height: 50px;
+ width: 600px;   
+ text-align: left;
+ color: white;
+ padding: 20px;
+    
+}
+
+.carica {
+    font-size: 10px;
+    padding: 5px;
+    
+    
+}
+
+.location {
+    font-size: 12px;
+    padding: 5px;
+    
+}
+
+.statocarica25 {
+    padding-top: 5px;
+    height: 10px;
+    background-color: #ff0033;
+    width: 100px;
+    border-radius: 5px;
+    
+}
+
+.statocarica50 {
+    padding-top: 5px;
+    height: 10px;
+    background-color:  #ff9900;
+    width: 200px;
+     border-radius: 5px;
+}
+
+.statocarica75 {
+    padding-top: 5px;
+    height: 10px;
+    background-color: #339900;
+    width: 300px;
+     border-radius: 5px;
+}
